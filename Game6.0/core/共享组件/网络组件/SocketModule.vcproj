@@ -69,7 +69,7 @@
 				Name="VCLinkerTool"
 				OutputFile="../../‘À––/Debug/SocketModuleD.dll"
 				LinkIncremental="2"
-				ModuleDefinitionFile=".\SocketModuleD.def"
+				ModuleDefinitionFile=".\SocketModule.def"
 				GenerateDebugInformation="true"
 				SubSystem="2"
 				ImportLibrary="../../¡¥Ω”ø‚/SocketModuleD.lib"
