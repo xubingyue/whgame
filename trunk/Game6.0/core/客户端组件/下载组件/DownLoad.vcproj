@@ -70,7 +70,7 @@
 				AdditionalDependencies="../../链接库/ComServiceD.lib ../../链接库/SkinControlsD.lib"
 				OutputFile="../../运行/Debug/DownLoadD.dll"
 				LinkIncremental="2"
-				ModuleDefinitionFile=".\DownLoadD.def"
+				ModuleDefinitionFile=".\DownLoad.def"
 				GenerateDebugInformation="true"
 				SubSystem="2"
 				ImportLibrary="../../链接库/DownLoadD.lib"
