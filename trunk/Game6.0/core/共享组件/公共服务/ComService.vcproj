@@ -69,7 +69,7 @@
 				Name="VCLinkerTool"
 				OutputFile="../../‘À––/Debug/ComServiceD.dll"
 				LinkIncremental="2"
-				ModuleDefinitionFile=".\ComServiceD.def"
+				ModuleDefinitionFile=".\ComService.def"
 				GenerateDebugInformation="true"
 				SubSystem="2"
 				ImportLibrary="../../¡¥Ω”ø‚/ComServiceD.lib"
