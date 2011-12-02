@@ -3,7 +3,7 @@
 	ProjectType="Visual C++"
 	Version="8.00"
 	Name="网络组件"
-	ProjectGUID="{40C0CCCB-BB89-4198-A607-2410FA125EDC}"
+	ProjectGUID="{1C2AF6C9-6787-41D2-8281-BCCEFBB46768}"
 	Keyword="MFCDLLProj"
 	>
 	<Platforms>
@@ -69,7 +69,6 @@
 				Name="VCLinkerTool"
 				OutputFile="../../运行/Debug/SocketModuleD.dll"
 				LinkIncremental="2"
-				ModuleDefinitionFile=".\SocketModule.def"
 				GenerateDebugInformation="true"
 				SubSystem="2"
 				ImportLibrary="../../链接库/SocketModuleD.lib"
